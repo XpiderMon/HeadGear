@@ -42,7 +42,7 @@ Ensure compatibility with Spigot 1.16.5 or later.
 
 ## Support
 
-Have questions or need assistance? Join our [[Discord server](https://discord.gg/QmFNzyqBxN)](#).
+Have questions or need assistance? Join our [[Discord server](https://discord.gg/czUy2sjNVV)](#).
 
 
 
