@@ -34,7 +34,7 @@ Fine-tune the plugin's behavior by editing `config.yml` and `effect_items.yml`. 
 
 1. Download the plugin from the [[SpigotMC page](https://www.spigotmc.org/resources/headgear.114060/)](#).
 2. Place the JAR file into your server's `plugins` folder.
-3. Start or restart your server.
+3. Start/Restart or reload your server.
 
 ## Compatibility
 
