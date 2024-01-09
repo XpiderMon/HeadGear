@@ -1,0 +1,12 @@
+# effect_items.yml
+
+enabled: true
+
+effects:
+  GLASS:
+    type: WATER_BREATHING
+    amplifier: 1
+  PUMPKIN:
+    type: NIGHT_VISION
+    amplifier: 0
+  # Add more items and effects as needed

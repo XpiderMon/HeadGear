@@ -1,0 +1,12 @@
+enable-effects: true
+
+blacklisted-items:
+  - DIAMOND_SWORD
+  - GOLDEN_APPLE
+  - NETHERITE_CHESTPLATE
+
+messages:
+  item-not-allowed: "&cYou cannot use this item as a head."
+
+Config:
+  Update-Notify: true

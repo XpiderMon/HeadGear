@@ -1,0 +1,11 @@
+# plugin.yml
+name: HeadGear
+version: 2.0
+main: me.mejbha.headgear.HeadGear
+api-version: 1.13
+author: mejbha
+description: A Minecraft plugin that allows players to wear special headgear with effects.
+
+permissions:
+  headgear.use:
+    description: Allows players to use items on their heads.
