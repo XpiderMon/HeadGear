@@ -1,12 +1,45 @@
-enable-effects: true
+# | ---------------------------------------------------------------------------------------------| #
+# |                     name: HeadGear                                                           | #
+# |                     version: 2.1                                                             | #
+# |                     Author: mejbha                                                           | #
+#                                                                                                  #
+# |  GITHUB :     https://github.com/XpiderMon/HeadGear                                          | #
+# |  DISCORD:     https://discord.gg/czUy2sjNVV                                                  | #
+# |                                                                                              | #
+# | ---------------------------------------------------------------------------------------------| #
+
+#_________________________________________________________________________#
+                    # | blacklisted items| #
+
+# Add item types to the list to blacklist them from being used as heads.
+      # Example:
+          # - DIAMOND_SWORD
+#_________________________________________________________________________#
 
 blacklisted-items:
   - DIAMOND_SWORD
   - GOLDEN_APPLE
   - NETHERITE_CHESTPLATE
+  # Add more items as needed
 
+#_________________________________________________________________________#
+                    # | Messages configuration | #
+
+  # Customize the messages sent to players in different situations.
+  # You can use color codes and placeholders.
+  #   Example:
+  #    item-not-allowed: "&cYou cannot use this item as a head."
+#_________________________________________________________________________#
 messages:
   item-not-allowed: "&cYou cannot use this item as a head."
 
+#________________________________________________________________________________________#
+          # | Update notification configuration | #
+
+# Set to 'true' to receive update notifications whenever a new version is available.
+# Set to 'false' to disable update notifications.
+# We recommend leaving this option enabled to stay informed about plugin updates.
+
+#________________________________________________________________________________________ #
 Config:
   Update-Notify: true
