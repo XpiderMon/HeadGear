@@ -1,0 +1,36 @@
+# Configuration for HeadGear
+
+#---------------------------------------------------------------------------------#
+#                                ░█▀▄▀█ █▀▀█ █▀▀▄ █▀▀ 　 █▀▀▄ █──█
+#                                ░█░█░█ █▄▄█ █──█ █▀▀ 　 █▀▀▄ █▄▄█
+#                                ░█──░█ ▀──▀ ▀▀▀─ ▀▀▀ 　 ▀▀▀─ ▄▄▄█
+
+#                   ███╗░░░███╗███████╗░░░░░██╗██████╗░██╗░░██╗░█████╗░
+#                   ████╗░████║██╔════╝░░░░░██║██╔══██╗██║░░██║██╔══██╗
+#                   ██╔████╔██║█████╗░░░░░░░██║██████╦╝███████║███████║
+#                   ██║╚██╔╝██║██╔══╝░░██╗░░██║██╔══██╗██╔══██║██╔══██║
+#                   ██║░╚═╝░██║███████╗╚█████╔╝██████╦╝██║░░██║██║░░██║
+#                   ╚═╝░░░░░╚═╝╚══════╝░╚════╝░╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝
+#----------------------------------------------------------------------------------#
+#                       DISCORD : https://discord.gg/czUy2sjNVV
+#
+#----------------------------------------------------------------------------------#
+# Version : 3.0
+# author  : Mejbha
+#----------------------------------------------------------------------------------#
+debug-mode: false
+
+enable-effects: true
+
+default-cooldown: 10  # Default Instant cooldown before re-equipping cooldown (seconds) if not set in items.yml
+effect-cooldown: 15   # Default Cooldown that starts after the effect duration ends
+
+blacklisted-items:
+  - DIAMOND_SWORD
+  - GOLDEN_APPLE
+  - NETHERITE_CHESTPLATE
+
+messages:
+  item-not-allowed: "&4You cannot use this item as a head."
+  cooldown-active: "&aYou must wait &e{time} seconds &abefore using this again!"  # Custom cooldown message
+  effect-cooldown-active: "&aYou must wait &e{time} seconds &aafter the effect ends!"
