@@ -28,7 +28,7 @@ Enhance your Minecraft server with the HeadGear plugin! This plugin allows playe
 - `headgear.effect.allow` Permission to use Effect System.
 ## Configuration
 
-Fine-tune the plugin's behavior by editing [[config.yml](https://github.com/XpiderMon/HeadGear/blob/5d8474b1aac3c3d85a0a98a556e57e3121b3428d/src/main/resources/config.yml)]. and [[effect_items.yml](https://github.com/XpiderMon/HeadGear/blob/5d8474b1aac3c3d85a0a98a556e57e3121b3428d/src/main/resources/effect_items.yml)]. Customize blacklisted items, enable/disable effects, and adjust effect settings.
+Fine-tune the plugin's behavior by editing [[config.yml](https://github.com/XpiderMon/HeadGear/blob/9f014df214a58253e4a10844a762af9a49f97e3d/HeadGear/target/classes/config.yml)]. and [[effect_items.yml](https://github.com/XpiderMon/HeadGear/blob/9f014df214a58253e4a10844a762af9a49f97e3d/HeadGear/target/classes/items.yml)]. Customize blacklisted items, enable/disable effects, and adjust effect settings.
 
 ## Installation
 
