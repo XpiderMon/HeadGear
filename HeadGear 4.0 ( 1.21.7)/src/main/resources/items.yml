@@ -1,0 +1,65 @@
+# Configuration for HeadGear
+
+#---------------------------------------------------------------------------------#
+#                                ░█▀▄▀█ █▀▀█ █▀▀▄ █▀▀ 　 █▀▀▄ █──█
+#                                ░█░█░█ █▄▄█ █──█ █▀▀ 　 █▀▀▄ █▄▄█
+#                                ░█──░█ ▀──▀ ▀▀▀─ ▀▀▀ 　 ▀▀▀─ ▄▄▄█
+
+#                   ███╗░░░███╗███████╗░░░░░██╗██████╗░██╗░░██║░█████╗░
+#                   ████╗░████║██╔════╝░░░░░██║██╔══██╗██║░░██║██╔══██╗
+#                   ██╔████╔██║█████╗░░░░░░░██║██████╦╝███████║███████║
+#                   ██║╚██╔╝██║██╔══╝░░██╗░░██║██╔══██╗██╔══██║██╔══██║
+#                   ██║░╚═╝░██║███████╗╚█████╔╝██████╦╝██║░░██║██║░░██║
+#                   ╚═╝░░░░░╚═╝╚══════╝░╚════╝░╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝
+#----------------------------------------------------------------------------------#
+#                       DISCORD : https://discord.gg/czUy2sjNVV
+#
+#----------------------------------------------------------------------------------#
+# Version : 4.0
+# author  : Mejbha
+#----------------------------------------------------------------------------------#
+# items.yml
+items:
+  diamond_sword:
+    effect: INCREASE_DAMAGE
+    duration: 10
+    level: 1
+    cooldown: 30  # This item has its own cooldown
+    effect-cooldown: 20  # Cooldown after effect ends
+
+  golden_apple:
+    effect: ABSORPTION
+    duration: 30
+    level: 1
+    cooldown: 30  # This item has its own cooldown
+    effect-cooldown: 20  # Cooldown after effect ends
+    health-boost: 2  # Adds 2 extra hearts (4 health points)
+
+  netherite_chestplate:
+    effect: FIRE_RESISTANCE
+    duration: 15
+    level: 1
+    cooldown: 30  # This item has its own cooldown
+    effect-cooldown: 20  # Cooldown after effect ends
+    health-boost: 4  # Adds 4 extra hearts (8 health points)
+
+  blaze_rod:
+    effect: FIRE_RESISTANCE
+    duration: 30
+    level: 1
+    cooldown: 30  # This item has its own cooldown
+    effect-cooldown: 20  # Cooldown after effect ends
+
+  bow:
+    effect: SPEED
+    duration: 20
+    level: 2
+    cooldown: 30  # This item has its own cooldown
+    effect-cooldown: 20  # Cooldown after effect ends
+
+  compass:
+    effect: NIGHT_VISION
+    duration: 30
+    level: 1
+    cooldown: 30  # This item has its own cooldown
+    effect-cooldown: 20  # Cooldown after effect ends
