@@ -1,4 +1,4 @@
-# 📝 HeadGear – The Ultimate Custom Headgear Plugin!
+# 📝 HeadGear – The Ultimate Custom Headgear Plugin! (1.8 - 1.21.7)
 
 ## 🔹 Description:
 HeadGear is a lightweight yet powerful Minecraft Spigot/Paper plugin that allows any item to be worn on a player's head! But that's not all each headgear item can apply custom effects, introduce configurable cooldowns, and create unique gameplay mechanics. Perfect for RPG, Survival, and Minigame servers!
