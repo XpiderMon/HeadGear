@@ -9,6 +9,7 @@ HeadGear is a lightweight yet powerful Minecraft Spigot/Paper plugin that allows
 ## ⚡ Features:
 - ✅ Wear Any Item on Your Head! (Not just helmets!)
 - ✅ Apply Custom Effects (Speed, Strength, Night Vision, and more!)
+- ✅ Grant Extra Hearts! (Configurable per item) 
 - ✅ Two Cooldown Systems:
 > - **Prevention Cooldown ⏳ (Prevents instant re-equipping)**
 > - **Post-Effect Cooldown 🔄 (Starts after the effect ends)**
