@@ -1,4 +1,9 @@
 # 👑 HeadGear v7.0 — Official Documentation & Wiki
+
+
+https://github.com/user-attachments/assets/eaae80eb-98ba-432d-b5cc-638821bce9d1
+
+
 **The Ultimate Headwear & Cosmetic Ability Plugin for Modern Minecraft Servers**
 
 ---
