@@ -1,6 +1,8 @@
 # 👑 HeadGear v7.0 — Official Documentation & Wiki
 
 
+## 🔗 Download From Here : [Modrinth](https://modrinth.com/project/WisKr5S3) [Spigot] (https://www.spigotmc.org/resources/headgear-%E2%80%93-the-ultimate-custom-headgear-plugin-1-8-26-1-2.114060/)
+
 https://github.com/user-attachments/assets/eaae80eb-98ba-432d-b5cc-638821bce9d1
 
 
